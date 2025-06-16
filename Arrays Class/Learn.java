@@ -9,7 +9,7 @@ public class Learn {
         // Integer arr[] = {1,2,3,4,5,6,7,8,9};
 
         // int ind = Arrays.binarySearch(arr, 6);
-        // System.out.println("index of ekement is :  "+ind);
+        // System.out.println("index of element is :  "+ind);
 
 
 
